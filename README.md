@@ -1,7 +1,7 @@
 ![tindog website landing page](https://github.com/irfansk-22/tindog/blob/master/images/home.png)
 
 # tindog
-TinDog is a beautiful start up design, built while coding along Angela Yu (my udemy instructor).  
+TinDog is a beautiful fun start up design, built while coding along Angela Yu (my udemy instructor).  
 
 ## Technologies Used 
 
