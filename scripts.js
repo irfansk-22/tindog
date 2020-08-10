@@ -1,3 +1,8 @@
+var year = new Date().getFullYear();
+var currentYear = document.querySelector(".year");
+
+currentYear.innerHTML = year;
+
 var upArrow = document.querySelector("#header > i");
 
 window.onscroll = function () { scrollFunction() };
