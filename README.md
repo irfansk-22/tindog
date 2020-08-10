@@ -8,7 +8,7 @@ TinDog is a beautiful fun start up design, built while coding along Angela Yu (m
 - HTML 5
 - CSS 3
 - Bootstrap 4
-- JavaScript
+- Vanilla JavaScript
 
 ## About this project
 
