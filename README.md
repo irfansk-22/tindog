@@ -1,4 +1,4 @@
-![tindog website landing page](https://ibb.co/cJmzqp6)
+![tindog website landing page](https://github.com/irfansk-22/tindog/blob/master/images/home.png)
 
 # tindog
 TinDog is a beautiful start up design, built while coding along Angela Yu (my udemy instructor).  
